@@ -22,4 +22,5 @@ Ho creato anche un'altra pagina per analizzare gli ordini in base allo stato, pr
 Passando sopra prodotti c'è un tooltip e poi si può espolare il prodotto per sales e orders.
 Idem con Orders e Orders PY dove ci sono 2 Drill through e un tooltip.
 
+Ho creato il workbook su PowerBI con il mio progetto però lo aggiungo anche qua.
 Ho fatto solamente due pagine per colpa del tempo che ho ma avrei voluto analizzare le review per prodotto, ecc.
