@@ -1,0 +1,10 @@
+Dal Report si può vedere che il pagamento più utilizzato è con la carta di credito e il numero di 
+stelle date ai prodotti è per la maggior parte 5 con media complessiva di 4.09. 
+Il primo anno non è stato venduto molto perché la raccolta dati inizia a fine anno, ma poi c'è stato un 
+incremento di mese in mese e, nel 2018, anche se non ci sono più dati dopo settembre, si può vedere che ci 
+sono stati più sales rispetto all'anno prima. 
+
+
+Nella seconda pagina è evidente che lo State dove sono stati fatti più ordini è Sao Paulo (o in generale 
+nella zona Southeast) in tutti e tre gli anni mentre la categoria di prodotto più venduto nel 2017 è 
+Bed Bath Table e nel 2018 Health Beauty, seguito da Bed Bath Table.
